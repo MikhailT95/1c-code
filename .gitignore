@@ -1,0 +1,16 @@
+# 1C
+*.cf
+*.cfu
+*.dt
+*.cfe
+*.epf
+*.erf
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
